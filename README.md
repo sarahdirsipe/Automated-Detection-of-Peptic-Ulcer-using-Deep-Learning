@@ -1,6 +1,6 @@
 # Automated-Detection-of-Peptic-Ulcer-using-Deep-Learning
 This project presents a deep learning-based approach for automated detection of peptic ulcers from Wireless Capsule Endoscopy (WCE) images. Peptic ulcer diagnosis traditionally relies on manual inspection of thousands of endoscopic images, which is time-consuming and prone to human error. To address this challenge, this work focuses on building an intelligent system capable of classifying gastrointestinal images into Normal, Ulcer, and Arteriovenous Malformation (AVM) categories.
-
+Dataset link : https://www.kaggle.com/datasets/nisarahmedrana/capsule-endoscopy-dataset-kauhc
 Feature Engineering and Preprocessing : 
 The input consists of WCE images collected from the KAUHC Capsule Endoscopy dataset. Images were resized and normalized to ensure consistency across the dataset. Data augmentation techniques such as rotation, flipping, brightness variation, and contrast adjustment were applied to simulate real-world imaging conditions and improve model generalization. These preprocessing steps helped the model learn robust visual patterns despite variations in lighting, noise, and image quality.
 
