@@ -22,7 +22,7 @@ The study was conducted using the KAUHC Capsule Endoscopy dataset, consisting of
 - Ulcer (472 images)
 
 Technology Stack : 
-Python, TensorFlow, Keras, NumPy, Pandas, OpenCV, Matplotlib, Seaborn, Scikit-learn, Google Colab
+Python, TensorFlow, Keras, NumPy, Pandas, OpenCV, Matplotlib, Scikit-learn, Google Colab
 
 Future Work : 
 Future improvements may include training on larger and more diverse datasets, incorporating lesion localization and segmentation techniques, extending the model to video-level analysis, and deploying the system in real-time clinical environments.
